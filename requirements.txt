@@ -1,0 +1,8 @@
+# Timeweb API Client and Webhook Handler
+
+## Dependencies
+
+- requests
+- jsonschema
+- pydantic
+- fastapi
